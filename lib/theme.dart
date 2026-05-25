@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
-  static final _primaryColor = Colors.brown;
+  static const _primaryColor = Colors.brown;
   static final _accentColor = Colors.brown[100];
   static final _successColor = Colors.brown[200];
 
