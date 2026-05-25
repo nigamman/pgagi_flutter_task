@@ -65,8 +65,8 @@ lib/
 
 ```bash
 # Clone the repo
-git clone <>
-cd startup_evaluator
+git clone <https://github.com/nigamman/pgagi_flutter_task.git>
+cd shivansh_flutter_task
 
 # Install dependencies
 flutter pub get
