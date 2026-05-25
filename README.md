@@ -83,15 +83,9 @@ flutter build apk --debug
 
 ## 📦 Install APK (Android)
 
-1. Download `app-debug.apk` from the Google Drive link: _[]_
+1. Download `app-debug.apk` from the Google Drive link: _[https://drive.google.com/file/d/1-F9FOKCkLL_zRTDBcxZZZqk9OksrgxMq/view?usp=drivesdk]_
 2. Enable **Install from unknown sources** in Android settings
 3. Tap the APK to install
-
----
-
-## 🎥 Walkthrough Video
-
-_[]_
 
 ---
 
